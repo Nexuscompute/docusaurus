@@ -34,7 +34,7 @@
     "terser-webpack-plugin": "^5.2.4",
     "webpack": "^5.61.0",
     "webpack-merge": "^5.7.3",
-    "workbox-build": "^6.1.1",
+    "workbox-build": "^6.4.2",
     "workbox-precaching": "^6.1.1",
     "workbox-window": "^6.1.1"
   },
